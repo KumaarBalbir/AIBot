@@ -23,6 +23,7 @@ fsspec==2023.12.1
 google-auth==2.25.1
 googleapis-common-protos==1.62.0
 grpcio==1.60.0
+gunicorn==21.2.0
 h11==0.14.0
 httptools==0.6.1
 huggingface-hub==0.19.4
