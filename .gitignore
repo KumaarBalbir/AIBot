@@ -1,0 +1,4 @@
+backend/MP/
+venv/
+chatbot/node_modules/ 
+.vscode
